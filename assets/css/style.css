@@ -1,0 +1,299 @@
+body {
+    background-color: beige;
+}
+
+.moringa {
+    color: #EC4067;
+    text-decoration: none;
+}
+
+.first {
+    float: right;
+    font-weight: lighter;
+    font-size: 17px;
+    color: gray;
+    word-spacing: 30px;
+    margin-top: -35px;
+}
+
+.project {
+    word-spacing: 0px;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #EC4067;
+    border-color: #EC4067;
+    padding-top: 4px;
+    padding-right: 17px;
+    padding-bottom: 4px;
+    padding-left: 17px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    margin-top: 30px;
+}
+
+.main-one {
+    font-family: 'Nunito', sans-serif;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+
+#m-one {
+    font-weight: normal;
+}
+
+#img-one {
+    float: right;
+    font-weight: lighter;
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: -450px;
+}
+
+#tech {
+    margin-top: -10px;
+    margin-bottom: 25px;
+    font-weight: lighter;
+    color:#EC4067;
+}
+
+.p-one {
+    color: gray;
+    font-family: 'Nunito', sans-serif;
+    font-weight: normal;
+}
+
+.explore {
+    border-color: #EC4067;
+    margin-left: 20px;
+    border: 1px solid #EC4067;
+    padding-top: 8px;
+    padding-right: 21px;
+    padding-bottom: 8px;
+    padding-left: 21px;
+}
+
+.main-two {
+    margin-top: 700px;
+    margin-left: 70px;
+    font-family: 'Nunito', sans-serif;
+    display: block;
+    margin-bottom: 50px;
+}
+
+h3 {
+    margin-bottom: 30px;
+}
+
+.story {
+    background-color: gray;
+}
+
+.memory {
+    font-weight: lighter;
+    color: gray;
+    font-size: 12px;
+    border: 1px;
+    padding-bottom: 0;
+}
+
+#img-two {
+    max-width: 100%;
+    max-height: 100%;
+    float: left;
+    width: 900px;
+    margin-right: 50px;
+}
+
+#day {
+    display: block;
+    margin-left: 30px;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+
+.lorem {
+    color: gray;
+}
+
+.main-three {
+    margin-top: 500px;
+    display: block;
+    margin-left: 70px;
+}
+
+#board {
+    float: left;
+    color:black;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 70px;
+    font-weight: bold;
+}
+
+.ipsum {
+    margin-top: -10px;
+    margin-left: 1px;
+    float: left;
+    color: gray;
+    font-family: 'Nunito', sans-serif;
+    font-weight: light;
+}
+
+#read {
+    margin-top: 50px;
+    float: left;
+    margin-left: -298px;
+}
+
+#img-three {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: -90px;
+    margin-right: -350px;
+    margin-left: -100px;
+}
+
+.main-four {
+    margin-top: 700px;
+}
+
+#img-four{
+    float: left;
+    max-height: 100%;
+    max-width: 100%;
+    width: 900px;
+    margin-right: 50px;
+}
+
+.graduation {
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    margin-left:69px;
+
+}
+
+.party {
+    color: gray;
+    float: right;
+    margin-right: 44px;
+}
+
+#album {
+    margin-left: 75px;
+}
+
+.main-five {
+    margin-top: 500px;
+    margin-left: 60px;
+}
+
+.mentor {
+    font-family: 'Nunito', sans-serif;
+    font-weight: light;
+}
+
+.dev {
+    color:#EC4067;
+    font-weight: bold;
+    margin-left: 20px;
+    display: flex;
+
+}
+
+.last {
+    color: gray;
+    margin-left: 20px;
+}
+
+.image {
+    width: 23%;
+    margin-left: 20px;
+}
+
+#last-one {
+    margin-left: 20px;
+}
+
+.mentors {
+    display: inline;
+    width: 23%;
+}
+
+.development {
+    margin-top: -200px;
+    margin-left: 350px;
+}
+
+.web {
+    margin-top: -200px;
+    margin-left: 680px;
+}
+
+.android {
+    margin-top: -200px;
+    margin-left: 990px;
+}
+
+
+.bike {
+    margin-top: 70px;
+    margin-left: 25px;
+}
+
+.good {
+    font-family: 'Nunito',sans-serif;
+    color: gray;
+    font-size: 12px;
+}
+
+.application {
+    color: gray;
+}
+
+
+#website {
+    color:#EC4067;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.our {
+    color: gray;
+    font-family: 'Nunito', sans-serif;
+}
+
+.cool {
+    float: right;
+    max-width: 100%;
+    max-height: 100%;
+    width: 800px;
+    margin-top: -150px;
+}
+
+.question {
+    margin-left: 30px;
+}
+
+#sure {
+    margin-top: 300px;
+    color:#EC4067;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: -30px;
+}
+
+.contact {
+    color:#EC4067;
+}
+
+.footer {
+    text-align: center;
+    height: 6vh;
+    background-color: lightgray;
+    padding-top: 2rem;
+    margin-left: -40px;
+}
